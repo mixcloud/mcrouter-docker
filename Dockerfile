@@ -2,7 +2,7 @@ FROM            ubuntu:14.04
 
 MAINTAINER      Julien Phalip <jphalip@gmail.com>
 
-ENV             MCROUTER_BRANCH         release-36-0
+ENV             MCROUTER_BRANCH         release-40-0
 ENV             MCROUTER_DIR            /usr/local/mcrouter
 ENV             MCROUTER_REPO           https://github.com/facebook/mcrouter.git
 ENV             DEBIAN_FRONTEND         noninteractive
